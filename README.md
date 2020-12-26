@@ -1,2 +1,2 @@
-# curso-programacion-ejercicio-6
+# curso-programacion-ejercicio-5
 Created with CodeSandbox
